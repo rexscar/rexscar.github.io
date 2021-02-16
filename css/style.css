@@ -2134,4 +2134,11 @@ color: #1f1e1f;
   .blog__details__quote {
     padding: 30px 40px 35px 35px;
   }
+
+  .set-bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
+  }
+  
 }
