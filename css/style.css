@@ -550,7 +550,7 @@ ul.timeline > li:before {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 45px;
+  bottom: 100px;
   width: 100%;
   max-width: 1140px;
   margin: 0 auto;
